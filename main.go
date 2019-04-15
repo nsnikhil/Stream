@@ -24,8 +24,8 @@
 package main
 
 import (
-	"Collections/functions"
-	"Collections/stream"
+	"Stream/functions"
+	"Stream/stream"
 	"fmt"
 )
 

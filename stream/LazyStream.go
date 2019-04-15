@@ -24,7 +24,7 @@
 package stream
 
 import (
-	"Collections/functions"
+	"Stream/functions"
 	"sync"
 )
 
