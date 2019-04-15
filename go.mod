@@ -1,3 +1,3 @@
-module Streamgit a
+module Stream
 
 require github.com/stretchr/testify v1.3.0
