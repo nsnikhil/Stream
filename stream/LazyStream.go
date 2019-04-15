@@ -24,7 +24,7 @@
 package stream
 
 import (
-	"Stream/functions"
+	"github.com/nsnikhil/Stream/functions"
 	"sync"
 )
 

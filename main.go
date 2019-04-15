@@ -24,9 +24,9 @@
 package main
 
 import (
-	"Stream/functions"
-	"Stream/stream"
 	"fmt"
+	"github.com/nsnikhil/Stream/functions"
+	"github.com/nsnikhil/Stream/stream"
 )
 
 type Person struct {

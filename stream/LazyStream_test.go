@@ -24,7 +24,7 @@
 package stream
 
 import (
-	"Stream/functions"
+	"github.com/nsnikhil/Stream/functions"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
